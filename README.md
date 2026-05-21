@@ -2,7 +2,7 @@
 This is demo of learning git &amp; github
 
 # Teacher
-Isha Rawat
+Shradha Khapra
 
 # Student
 Sigma Student
